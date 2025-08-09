@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41daac53-984a-4e6b-b42d-4a3178f57f02" alt="Machine Learning Banner" width="50%" length="100%" />
+  <img src="" alt="Machine Learning Banner" width="100%" />
 </p>
 
 
@@ -54,4 +54,5 @@ Over time, this repo should feel like:
 - A **portfolio** showing that I can actually *do* this stuff.
 - A **cheat sheet** for my future self when I forget how I solved a tricky problem.
 - A **story** — not just of projects, but of persistence.
+
 
