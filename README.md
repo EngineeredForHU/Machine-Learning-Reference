@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Machine Learning Banner" width="100%" />
+  <img src="deng-xiang--WXQm_NTK0U-unsplash.jpg" alt="Machine Learning Banner" width="50%" />
 </p>
 
 
@@ -54,5 +54,6 @@ Over time, this repo should feel like:
 - A **portfolio** showing that I can actually *do* this stuff.
 - A **cheat sheet** for my future self when I forget how I solved a tricky problem.
 - A **story** — not just of projects, but of persistence.
+
 
 
